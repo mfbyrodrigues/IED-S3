@@ -10,7 +10,7 @@ Este repositório contém os materiais e exercícios da disciplina de Introduç�
 - [Minhas anotações](#minhas-anotacoes)
 - [Referências](#referencias)
 
-## Sobre a Matéria
+## Sobre a matéria
 
 A disciplina de Introdução à Estrutura de Dados tem como objetivo ensinar os principais conceitos e técnicas para manipulação eficiente de dados, utilizando a linguagem Python. O foco está na implementação e uso de diferentes estruturas para otimizar o desempenho de algoritmos.
 
