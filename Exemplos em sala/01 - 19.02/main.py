@@ -1,5 +1,5 @@
 # declaração de variável
-variavel = 'i'
+variavel = 0
 
 # declaração da função
 def mostrar():
