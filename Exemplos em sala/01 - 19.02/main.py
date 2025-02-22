@@ -13,7 +13,7 @@ def outra_funcao():
 
 mostrar()
 
-# Estruturas condicionais:
+# estruturas condicionais:
 if (variavel < 1): # se
     print('ok')
 
@@ -23,24 +23,24 @@ elif (variavel > 5): #se não, se
 else: # se não
     print('not ok')
 
-# Estrutura de repetição:
+# estrutura de repetição:
 def loop():
     for i in range(10):
         print(i)
 
-# Listas:
+# listas:
 lista_de_fruta = ['siriguela', 'pinha', 'melancia', 1, True, 3.1415, (), [], {}]
 
 print(lista_de_frutas[0])
 
-print(lista_de_frutas[9]) # Erro 'Out Of Range'
+print(lista_de_frutas[9]) # erro 'Out Of Range'
 
-lista_de_fruta.index('melancia') # Várias funções catalogadas para se usar
+lista_de_fruta.index('melancia') # várias funções catalogadas para se usar
 print (index_melancia) # Mostra o index da posição do elemento
 
-print(lista_de_fruta.append('manga')) # Adiciona o elemento bem no final
+print(lista_de_fruta.append('manga')) # adiciona o elemento bem no final
 
-# Outra maneira de percorrer:
+# outra maneira de percorrer:
 
 for fruta in range(len(lista_de_frutas)):
     print(fruta)
