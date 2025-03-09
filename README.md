@@ -1,6 +1,6 @@
 # Introdução à Estrutura de Dados - Curso Técnico em Informática
 
-Este repositório contém os materiais e exercícios da disciplina de Introdução à Estrutura de Dados do curso técnico integrado em Informática. Aqui organizo códigos, anotações e práticas para acompanhar o aprendizado em estrutura de dados utilizando a linguagem Python.
+Este repositório contém os materiais e exercícios da disciplina de Introdução à Estrutura de Dados do curso técnico integrado em Informática. Aqui organizo códigos, anotações e práticas para acompanhar o aprendizado em estrutura de dados utilizando a linguagem Java.
 
 ## Índice
 
@@ -12,7 +12,7 @@ Este repositório contém os materiais e exercícios da disciplina de Introduç�
 
 ## Sobre a matéria
 
-A disciplina de Introdução à Estrutura de Dados tem como objetivo ensinar os principais conceitos e técnicas para manipulação eficiente de dados, utilizando a linguagem Python. O foco está na implementação e uso de diferentes estruturas para otimizar o desempenho de algoritmos.
+A disciplina de Introdução à Estrutura de Dados tem como objetivo ensinar os principais conceitos e técnicas para manipulação eficiente de dados, utilizando a linguagem Java. O foco está na implementação e uso de diferentes estruturas para otimizar o desempenho de algoritmos.
 
 ## Conteúdo programático
 
@@ -24,8 +24,8 @@ Os principais tópicos abordados incluem:
 
 2. **Listas e Tuplas**
    - Definição e manipulação de listas
-   - List comprehension
-   - Tuplas e suas propriedades
+   - List comprehension (usando streams)
+   - Tuplas e suas propriedades (usando arrays ou classes customizadas)
 
 3. **Pilhas e Filas**
    - Implementação de pilhas (LIFO)
@@ -33,8 +33,8 @@ Os principais tópicos abordados incluem:
    - Filas de prioridade
 
 4. **Dicionários e Conjuntos**
-   - Estrutura e uso de dicionários
-   - Operações com conjuntos
+   - Estrutura e uso de dicionários (Mapas em Java)
+   - Operações com conjuntos (Set)
 
 5. **Estruturas Encadeadas**
    - Listas encadeadas simples e duplas
@@ -57,9 +57,9 @@ Os principais tópicos abordados incluem:
 
 Para acompanhar as aulas e praticar, estou utilizando:
 
-- **Linguagem:** Python 3;
-- **Editor:** VS Code;
-- **Bibliotecas auxiliares:** NumPy, Collections.
+- **Linguagem:** Java 17 (ou superior);
+- **IDE:** IntelliJ IDEA ou Eclipse;
+- **Bibliotecas auxiliares:** Collections Framework (List, Set, Map), Java Streams API.
 
 ## Minhas anotações
 
@@ -67,10 +67,10 @@ Aqui adicionarei anotações e códigos feitos conforme avanço na disciplina.
 
 ## Referências
 
-- Documentação oficial do Python;
+- Documentação oficial do Java;
 - Livros e materiais recomendados durante a disciplina;
 - Aulas práticas fornecidas pelo professor da disciplina.
 
 ##
 
-Esse repositório servirá como meu espaço de aprendizado e consulta ao longo da disciplina.
+Este repositório servirá como meu espaço de aprendizado e consulta ao longo da disciplina.
