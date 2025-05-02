@@ -1,75 +1,73 @@
 # Introdução à Estrutura de Dados - Curso Técnico em Informática
 
-Este repositório contém os materiais e exercícios da disciplina de Introdução à Estrutura de Dados do curso técnico integrado em Informática. Aqui organizo códigos, anotações e práticas para acompanhar o aprendizado em estrutura de dados utilizando a linguagem Java.
+Este repositório contém os materiais e exercícios da disciplina de Introdução à Estrutura de Dados do curso técnico integrado em Informática. Aqui organizo códigos, anotações e práticas para acompanhar o aprendizado em estrutura de dados utilizando a linguagem C.
 
-## Índice
+## 📚 Índice
 
-- [Sobre a matéria](#sobre-a-materia)
-- [Conteúdo programático](#conteudo-programatico)
-- [Configuração do ambiente](#configuracao-do-ambiente)
-- [Minhas anotações](#minhas-anotacoes)
-- [Referências](#referencias)
+- [📖 Sobre a matéria](#sobre-a-matéria)
+- [🗂️ Conteúdo programático](#conteúdo-programático)
+- [💻 Configuração do ambiente](#configuração-do-ambiente)
+- [✍️ Minhas anotações](#minhas-anotações)
+- [🔗 Referências](#referências)
 
-## Sobre a matéria
+## 📖 Sobre a matéria
 
-A disciplina de Introdução à Estrutura de Dados tem como objetivo ensinar os principais conceitos e técnicas para manipulação eficiente de dados, utilizando a linguagem Java. O foco está na implementação e uso de diferentes estruturas para otimizar o desempenho de algoritmos.
+A disciplina de Introdução à Estrutura de Dados tem como objetivo ensinar os principais conceitos e técnicas para manipulação eficiente de dados, utilizando a linguagem C. O foco está na implementação e uso de diferentes estruturas para otimizar o desempenho de algoritmos.
 
-## Conteúdo programático
+## 🗂️ Conteúdo programático
 
 Os principais tópicos abordados incluem:
 
-1. **Fundamentos de Estruturas de Dados**
+1. **🔑 Fundamentos de Estruturas de Dados**
    - O que são estruturas de dados?
    - Eficiência e complexidade computacional (Big O Notation)
 
-2. **Listas e Tuplas**
-   - Definição e manipulação de listas
-   - List comprehension (usando streams)
-   - Tuplas e suas propriedades (usando arrays ou classes customizadas)
+2. **📊 Vetores e Matrizes**
+   - Declaração e manipulação
+   - Arrays multidimensionais
 
-3. **Pilhas e Filas**
-   - Implementação de pilhas (LIFO)
-   - Implementação de filas (FIFO)
-   - Filas de prioridade
+3. **🔗 Listas Ligadas**
+   - Listas encadeadas simples
+   - Listas duplamente encadeadas
 
-4. **Dicionários e Conjuntos**
-   - Estrutura e uso de dicionários (Mapas em Java)
-   - Operações com conjuntos (Set)
+4. **📦 Pilhas e Filas**
+   - Implementação com arrays
+   - Implementação com listas encadeadas
 
-5. **Estruturas Encadeadas**
-   - Listas encadeadas simples e duplas
-   - Pilhas e filas encadeadas
+5. **🔢 Conjuntos e Mapas**
+   - Representação e manipulação de conjuntos
+   - Tabelas hash simples
 
-6. **Árvores e Grafos**
-   - Introdução a árvores binárias
+6. **🌳 Árvores e Grafos**
+   - Árvores binárias
    - Árvores de busca binária (BST)
-   - Representação e travessia de grafos
+   - Representação de grafos (matriz de adjacência, lista de adjacência)
 
-7. **Algoritmos de Ordenação e Busca**
-   - Métodos de ordenação (Bubble Sort, Merge Sort, Quick Sort)
-   - Algoritmos de busca (Busca Linear, Busca Binária)
+7. **🔍 Algoritmos de Ordenação e Busca**
+   - Bubble Sort, Merge Sort, Quick Sort
+   - Busca linear e busca binária
 
-8. **Projeto Prático**
+8. **🛠️ Projeto Prático**
    - Desenvolvimento de uma aplicação utilizando estruturas de dados
    - Aplicação dos conceitos aprendidos
 
-## Configuração do ambiente
+## 💻 Configuração do ambiente
 
 Para acompanhar as aulas e praticar, estou utilizando:
 
-- **Linguagem:** Java 17 (ou superior);
-- **IDE:** IntelliJ IDEA ou Eclipse;
-- **Bibliotecas auxiliares:** Collections Framework (List, Set, Map), Java Streams API.
+- **💻 Linguagem:** C (compilador gcc)
+- **🖥️ Editor/IDE:** VSCode, CLion ou Code::Blocks
+- **📚 Bibliotecas auxiliares:** stdio.h, stdlib.h, string.h, math.h
 
-## Minhas anotações
+## ✍️ Minhas anotações
 
 Aqui adicionarei anotações e códigos feitos conforme avanço na disciplina.
 
-## Referências
+## 🔗 Referências
 
-- Documentação oficial do Java;
-- Livros e materiais recomendados durante a disciplina;
-- Aulas práticas fornecidas pelo professor da disciplina.
+- 📖 Documentação oficial da linguagem C (ISO C99 / C11);
+- 📚 Livros e materiais recomendados durante a disciplina;
+- 🎓 Aulas práticas fornecidas pelo professor da disciplina.
 
 ##
 
