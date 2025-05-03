@@ -63,7 +63,7 @@ Aqui adicionarei anotações e códigos feitos conforme avanço na disciplina.
 
 - Documentação oficial do Python; 
 - Livros e materiais recomendados durante a disciplina;  
-- Aulas práticas fornecidas pelo professor da disciplina.
+- Aulas práticas fornecidas pelo professor.
 
 ##
 Este repositório servirá como meu espaço de aprendizado e consulta ao longo da disciplina.
