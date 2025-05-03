@@ -55,9 +55,9 @@ Os principais tópicos abordados incluem:
 
 Para acompanhar as aulas e praticar, estou utilizando:
 
-- **💻 Linguagem:** C (compilador gcc)
-- **🖥️ Editor/IDE:** VSCode, CLion ou Code::Blocks
-- **📚 Bibliotecas auxiliares:** stdio.h, stdlib.h, string.h, math.h
+- **Linguagem:** C (compilador gcc)
+- **Editor/IDE:** VSCode, CLion ou Code::Blocks
+- **Bibliotecas auxiliares:** stdio.h, stdlib.h, string.h, math.h
 
 ## ✍️ Minhas anotações
 
