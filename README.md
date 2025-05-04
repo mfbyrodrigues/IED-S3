@@ -1,6 +1,6 @@
-# Lógica e Linguagem de Programação - Curso Técnico em Informática
+# 💻 Introdução à Estrutura de Dados - Curso Técnico em Informática
 
-Este repositório contém os materiais e exercícios da disciplina de Lógica e Linguagem de Programação do curso técnico integrado em Informática. Aqui organizo códigos, anotações e práticas para acompanhar o aprendizado em programação utilizando a linguagem **C**.
+Este repositório contém os materiais e exercícios da disciplina de Introdução à Estrutura de Dados do curso técnico integrado em Informática. Aqui organizo códigos, anotações e práticas para acompanhar o aprendizado em estrutura de dados utilizando a linguagem **Python**.
 
 ## 📚 Índice
 
@@ -12,53 +12,48 @@ Este repositório contém os materiais e exercícios da disciplina de Lógica e 
 
 ## 📖 Sobre a matéria
 
-A disciplina de Lógica e Linguagem de Programação tem como objetivo desenvolver o pensamento lógico e ensinar os fundamentos da programação estruturada utilizando a linguagem C. O foco está na criação de algoritmos eficientes e na resolução de problemas computacionais.
+A disciplina de Introdução à Estrutura de Dados tem como objetivo ensinar os principais conceitos e técnicas para manipulação eficiente de dados, utilizando a linguagem Python. O foco está na implementação e uso de diferentes estruturas para otimizar o desempenho de algoritmos.
 
 ## 🗂️ Conteúdo programático
 
 Os principais tópicos abordados incluem:
 
-1. **🔑 Fundamentos da Lógica de Programação**  
-   - Algoritmos
-   - Fluxogramas e diagramas de fluxo  
-   - Estruturas sequenciais, condicionais e de repetição
+1. **🔑 Fundamentos de Estruturas de Dados**  
+   - O que são estruturas de dados?  
+   - Eficiência e complexidade computacional (Big O Notation)
 
-2. **🚀 Introdução à Linguagem C**  
-   - Estrutura de um programa em C  
-   - Compilação e execução  
-   - Tipos de dados, variáveis e constantes
+2. **📊 Listas e Tuplas**  
+   - Declaração e manipulação  
+   - Listas multidimensionais
 
-3. **🔄 Estruturas de Controle**  
-   - Condicionais (`if`, `switch`)  
-   - Laços (`for`, `while`, `do-while`)
+3. **🔗 Listas Ligadas**  
+   - Implementação de listas encadeadas simples e duplamente encadeadas
 
-4. **🧩 Funções e Modularização**  
-   - Definição e chamada de funções  
-   - Passagem de parâmetros e retorno de valores
+4. **📦 Pilhas e Filas**  
+   - Implementação usando listas e módulos (`collections.deque`, `queue`)
 
-5. **📦 Estruturas de Dados**  
-   - Arrays e strings  
-   - Structs e enumerações
+5. **🔢 Conjuntos e Dicionários**  
+   - Representação e manipulação de conjuntos (`set`) e dicionários (`dict`)
 
-6. **🗝️ Ponteiros e Manipulação de Memória**  
-   - Declaração e uso de ponteiros  
-   - Alocação dinâmica de memória (`malloc`, `free`)
+6. **🌳 Árvores e Grafos**  
+   - Árvores binárias  
+   - Árvores de busca binária (BST)  
+   - Representação de grafos (dicionário de adjacência, lista de adjacência)
 
-7. **📂 Manipulação de Arquivos**  
-   - Entrada e saída de arquivos  
-   - Leitura e escrita de dados
+7. **🔍 Algoritmos de Ordenação e Busca**  
+   - Bubble Sort, Merge Sort, Quick Sort  
+   - Busca linear e busca binária
 
 8. **🛠️ Projeto Prático**  
-   - Desenvolvimento de um programa funcional em C  
+   - Desenvolvimento de uma aplicação utilizando estruturas de dados  
    - Aplicação dos conceitos aprendidos
 
 ## 💻 Configuração do ambiente
 
 Para acompanhar as aulas e praticar, estou utilizando:
 
-- **Compilador:** DevC++;
-- **Editor/IDE:** VS Code com extensão C/C++;
-- **Sistema Operacional:** Windows 11.
+- **Linguagem:** Python (versão 3.x)  
+- **Editor/IDE:** VSCode, PyCharm, Jupyter Notebook, ou qualquer editor de sua preferência  
 
 ## ✍️ Minhas anotações
 
@@ -66,9 +61,9 @@ Aqui adicionarei anotações e códigos feitos conforme avanço na disciplina.
 
 ## 🔗 Referências
 
-- Documentação oficial da linguagem C ;
-- Livros e materiais recomendados durante a disciplina;
-- Aulas práticas fornecidas pela professora.
+- Documentação oficial do Python  
+- Livros e materiais recomendados durante a disciplina  
+- Aulas práticas fornecidas pelo professor
 
 ##
-Este repositório servirá como meu espaço de aprendizado e consulta da disciplina.
+Este repositório servirá como meu espaço de aprendizado e consulta ao longo da disciplina.
