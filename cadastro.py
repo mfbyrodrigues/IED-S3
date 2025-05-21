@@ -5,19 +5,19 @@ usuarios = []
 while True:
     # Criação de um dicionário para armazenar os dados de uma pessoa  
     pessoa = {
-        "nome": input("Digite o nome: \n"),
-        "cidade": input("Digite a cidade: \n"),
+        "nome": input ("Digite o nome: \n"),
+        "cidade": input ("Digite a cidade: \n"),
         "TemTransporte": "",
         "TipoDeTransporte": {"tipo": "", "modelo": ""}
     }
 
     # Pergunta ao usuário se ele possui transporte
-    resposta_transporte = input("Você possui algum meio de transporte? (Responda com 'Sim' ou 'Não'): \n")
+    resposta_transporte = input ("Você possui algum meio de transporte? (Responda com 'Sim' ou 'Não'): \n")
     if resposta_transporte == "Sim":
         # Se sim, preenche os campos relacionados ao transporte
         pessoa["TemTransporte"] = "Sim"
-        pessoa["TipoDeTransporte"]["tipo"] = input("Que tipo de transporte você tem? (Ex: carro, moto, bicicleta...) \n")
-        pessoa["TipoDeTransporte"]["modelo"] = input("E qual é o modelo do seu transporte? \n")
+        pessoa["TipoDeTransporte"]["tipo"] = input ("Que tipo de transporte você tem? (Ex: carro, moto, bicicleta...) \n")
+        pessoa["TipoDeTransporte"]["modelo"] = input ("E qual é o modelo do seu transporte? \n")
     else:
         # Caso contrário, apenas marca como "Não"
         pessoa["TemTransporte"] = "Não"
