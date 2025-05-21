@@ -1,3 +1,5 @@
+# Criar um ambiente de cadastro que o usuário vai informar o nome, a cidade e se tem transporte ou não.
+
 # Cria uma lista vazia para armazenar os dados de todas as pessoas cadastradas
 usuarios = []
 
@@ -26,12 +28,12 @@ while True:
     usuarios.append(pessoa)
 
     # Pergunta se o usuário deseja cadastrar outra pessoa
-    continuar = input("Deseja cadastrar outra pessoa? (Digite 'Sim' para continuar ou qualquer outra coisa para encerrar): \n")
+    continuar = input ("Deseja cadastrar outra pessoa? (Digite 'Sim' para continuar ou qualquer outra coisa para encerrar): \n")
     print()
     if continuar != "Sim":
         break  # Encerra o loop caso a resposta seja diferente de "Sim"
 
 # Após o fim do cadastro, exibe todos os dados cadastrados
-print("Cadastro finalizado. Aqui estão os dados coletados:")
+print ("Cadastro finalizado. Aqui estão os dados coletados:")
 for usuario in usuarios:
     print(usuario)  # Exibe o dicionário bruto com as informações de cada pessoa
